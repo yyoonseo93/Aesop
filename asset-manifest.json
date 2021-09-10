@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Aesop/static/css/main.9bbc74db.chunk.css",
+    "main.js": "/Aesop/static/js/main.76849d60.chunk.js",
+    "main.js.map": "/Aesop/static/js/main.76849d60.chunk.js.map",
+    "runtime-main.js": "/Aesop/static/js/runtime-main.519ee856.js",
+    "runtime-main.js.map": "/Aesop/static/js/runtime-main.519ee856.js.map",
+    "static/js/2.93a52c21.chunk.js": "/Aesop/static/js/2.93a52c21.chunk.js",
+    "static/js/2.93a52c21.chunk.js.map": "/Aesop/static/js/2.93a52c21.chunk.js.map",
+    "static/js/3.24f70b05.chunk.js": "/Aesop/static/js/3.24f70b05.chunk.js",
+    "static/js/3.24f70b05.chunk.js.map": "/Aesop/static/js/3.24f70b05.chunk.js.map",
+    "index.html": "/Aesop/index.html",
+    "static/css/main.9bbc74db.chunk.css.map": "/Aesop/static/css/main.9bbc74db.chunk.css.map",
+    "static/js/2.93a52c21.chunk.js.LICENSE.txt": "/Aesop/static/js/2.93a52c21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.519ee856.js",
+    "static/js/2.93a52c21.chunk.js",
+    "static/css/main.9bbc74db.chunk.css",
+    "static/js/main.76849d60.chunk.js"
+  ]
+}
