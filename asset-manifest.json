@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AesopReact/static/css/main.9bbc74db.chunk.css",
+    "main.js": "/AesopReact/static/js/main.76849d60.chunk.js",
+    "main.js.map": "/AesopReact/static/js/main.76849d60.chunk.js.map",
+    "runtime-main.js": "/AesopReact/static/js/runtime-main.4e67f625.js",
+    "runtime-main.js.map": "/AesopReact/static/js/runtime-main.4e67f625.js.map",
+    "static/js/2.93a52c21.chunk.js": "/AesopReact/static/js/2.93a52c21.chunk.js",
+    "static/js/2.93a52c21.chunk.js.map": "/AesopReact/static/js/2.93a52c21.chunk.js.map",
+    "static/js/3.24f70b05.chunk.js": "/AesopReact/static/js/3.24f70b05.chunk.js",
+    "static/js/3.24f70b05.chunk.js.map": "/AesopReact/static/js/3.24f70b05.chunk.js.map",
+    "index.html": "/AesopReact/index.html",
+    "static/css/main.9bbc74db.chunk.css.map": "/AesopReact/static/css/main.9bbc74db.chunk.css.map",
+    "static/js/2.93a52c21.chunk.js.LICENSE.txt": "/AesopReact/static/js/2.93a52c21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e67f625.js",
+    "static/js/2.93a52c21.chunk.js",
+    "static/css/main.9bbc74db.chunk.css",
+    "static/js/main.76849d60.chunk.js"
+  ]
+}
